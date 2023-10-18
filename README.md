@@ -2,7 +2,7 @@ Hello world tutorial
 
 new tutorial
 
-skeleton tutorial
+tutorial skeleton 
 
 new tutorial 3
 
